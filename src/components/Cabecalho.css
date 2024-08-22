@@ -1,0 +1,36 @@
+.imgPerfil {
+    margin-top: 7%;
+    border-radius: 20px;
+    width: 90%;
+}
+
+.info_prin {
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.le-coluna,.ri-coluna {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 4%;
+    }
+
+.ri-coluna {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+   
+}
+
+.nome_miku{
+    color: rgb(160, 241, 214);
+    margin-top: 10%;
+    padding-left: 13%;
+    height: 30%;
+}
+
+.frase_miku{
+    padding-left: 15%;
+    font-size: 75%;
+}

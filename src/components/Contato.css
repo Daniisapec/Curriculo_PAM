@@ -1,0 +1,23 @@
+:root {
+    --img-size: 10%;
+}
+
+.contato {
+    display: flex;
+    align-items: center;
+    margin-top: 2%;
+   
+}
+
+.contato img {
+
+    width: var(--img-size);
+    padding-left: 80%;
+    margin-top: 15%;
+    
+}
+
+.email{
+    margin-right: 50%;
+}
+
